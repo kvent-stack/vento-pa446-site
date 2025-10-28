@@ -1,5 +1,5 @@
 ---
-title: "Resume — Kylie Vento"
+title: "Resume - Kylie Vento"
 page-layout: full
 ---
 
@@ -13,8 +13,8 @@ I’m a data and insights strategist with eight years of experience in project m
 
 ## Skills
 
--   **Project Management:** Creative Problem Solving, Team Management, Implementation/Execution, Organizational Skills\
--   **Data Analytics:** Data Regression, R, SQL, UNIX, ANOVA, Requirements Translation, Interpret Statistical Results\
+-   **Project Management:** Creative Problem Solving, Team Management, Implementation/Execution, Organizational Skills
+-   **Data Analytics:** Data Regression, R, SQL, UNIX, ANOVA, Requirements Translation, Interpret Statistical Results
 -   **Interpersonal Skills:** Enthusiasm, Reliability, Effective Communication, Passion for Learning, Positivity, Diplomacy
 
 ## Experience
