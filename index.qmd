@@ -4,10 +4,10 @@ title: "Welcome"
 
 ![](headshot.jpg){style="width:180px; border-radius:100px; margin-bottom:12px;"}
 
-## Hi, I’m Kylie Vento
-MS in Civic Analytics (UIC). I build civic data products and evidence-based stories for public impact.
+## Hi, I’m Kylie Vento!
+Currently working towards my MS in Civic Analytics at UIC. I'm passionate about using my data analytics and project management skills to help make the world a better place.
 
 - **GitHub:** <https://github.com/kvent-stack>
 - **Resume (HTML):** [View my resume](resume.qmd)
-- **Resume (PDF):** [Download PDF](resume.pdf) <!-- optional, add later -->
+- **Resume (PDF):** [Download PDF](resume.pdf)
 - **Email:** kvent@uic.edu
