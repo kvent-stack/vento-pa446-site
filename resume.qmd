@@ -7,19 +7,24 @@ page-layout: full
 Chicago, IL · [GitHub](https://github.com/kvent-stack) · kvent@uic.edu
 
 ## Summary
-I’m a data and insights strategist with eight years of experience in project management and analytics, now pursuing my master’s in Civic Analytics at UIC to expand my work at the intersection of data, equity, and systems change. I’m drawn to questions that sit between disciplines - where data science, social impact, and public policy converge — and I’m passionate about translating complexity into clarity. I love the challenge of making sense of messy, multidimensional problems and turning them into strategies people can act on. My approach blends technical rigor with empathy and curiosity, always aiming to move teams toward shared understanding. More than just producing insights, I care about designing feedback loops that make systems more transparent, adaptive, and responsive to the people they serve.
+I’m a data and insights strategist with eight years of experience in project management and analytics, now pursuing my master’s in Civic Analytics at UIC to expand my work at the intersection of data, equity, and systems change. I’m drawn to questions that sit between disciplines - where data science, social impact, and public policy converge - and I’m passionate about translating complexity into clarity. I love the challenge of making sense of messy, multidimensional problems and turning them into strategies people can act on. My approach blends technical rigor with empathy and curiosity, always aiming to move teams toward shared understanding. More than just producing insights, I care about designing feedback loops that make systems more transparent, adaptive, and responsive to the people they serve.
 
 ## Skills
-Project Management: Creative Problem Solving | Team Management | Implementation/Execution | Organizational Skills Data Analytics: Data Regression | R | SQL | UNIX | ANOVA | Requirements Translation |Interpret Statistical Results Interpersonal Skills: Enthusiasm | Reliability | Effective Communication | Passion for Learning | Positivity | Diplomacy
+
+Project Management: Creative Problem Solving | Team Management | Implementation/Execution | Organizational Skills   
+Data Analytics: Data Regression | R | SQL | UNIX | ANOVA | Requirements Translation |Interpret Statistical Results   
+Interpersonal Skills: Enthusiasm | Reliability | Effective Communication | Passion for Learning | Positivity | Diplomacy  
 
 ## Experience
 **NCSolutions**  
-- 8+ years experience across multiple departments, leaving as Director of Project Management & Validation
-- Established the Validation department, creating an optimized chain of communication within the company’s structure
-- Member of cross-team task force formed to improve inter-team and client relations, and facilitate operating procedures
+
+- 8+ years experience across multiple departments, leaving as Director of Project Management & Validation  
+- Established the Validation department, creating an optimized chain of communication within the company’s structure  
+- Member of cross-team task force formed to improve inter-team and client relations, and facilitate operating procedures  
 
 
 ## Education
-**M.S. - Civic Analytics**, University of Illinois Chicago (in progress)
-**Graduate Student at Large**, University of Chicago (2023-2024)
-**B.S. - Mathematics of Finance and Risk Management**, University of Michigan (2011-2015)
+
+**M.S. - Civic Analytics**, University of Illinois Chicago (in progress)  
+**Graduate Student at Large**, University of Chicago (2023-2024)  
+**B.S. - Mathematics of Finance and Risk Management**, University of Michigan (2011-2015)  
