@@ -1,11 +1,13 @@
 ---
-title: "vento-pa446-site"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+![](headshot.jpg){style="width:180px; border-radius:100px; margin-bottom:12px;"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Hi, I’m Kylie Vento
+MS in Civic Analytics (UIC). I build civic data products and evidence-based stories for public impact.
 
-```{r}
-1 + 1
-```
+- **GitHub:** <https://github.com/kvent-stack>
+- **Resume (HTML):** [View my resume](resume.qmd)
+- **Resume (PDF):** [Download PDF](resume.pdf) <!-- optional, add later -->
+- **Email:** kvent@uic.edu

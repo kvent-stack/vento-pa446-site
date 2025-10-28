@@ -1,5 +1,26 @@
 ---
-title: "resume"
-format: html
+title: "Resume — Kylie Vento"
+page-layout: full
 ---
 
+# Kylie Vento
+Chicago, IL · [GitHub](https://github.com/kvent-stack) · you@uic.edu
+
+## Summary
+Data & Insights Strategist with 8+ years in analytics (NCSolutions). Civic analytics grad student focused on equity-centered, reproducible data products.
+
+## Skills
+R (tidyverse, ggplot2), SQL, Git/GitHub, Quarto, data viz, experimental design, ANCOVA, stakeholder storytelling.
+
+## Experience
+**NCSolutions — Senior Data Analyst (8 yrs)**  
+- Led ad-effectiveness measurement using frequent shopper + Nielsen “watch” data.  
+- Built ANCOVA pipelines comparing exposed vs. control cohorts; translated results into client recommendations.
+
+**Graduate Projects — UIC MSCA**  
+- PA 434: text & regression analysis in R; visual analytics and reporting.  
+- Civic tech prototypes with wireframes and Shiny demos.
+
+## Education
+**M.S. Civic Analytics**, University of Illinois Chicago (in progress)  
+**B.s.**, University of Michigan - Mathematics of Finance and Risk Management
