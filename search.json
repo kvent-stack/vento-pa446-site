@@ -7,10 +7,45 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "vento-pa446-site",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume — Kylie Vento",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Chicago, IL · GitHub · you@uic.edu\n\n\nData & Insights Strategist with 8+ years in analytics (NCSolutions). Civic analytics grad student focused on equity-centered, reproducible data products.\n\n\n\nR (tidyverse, ggplot2), SQL, Git/GitHub, Quarto, data viz, experimental design, ANCOVA, stakeholder storytelling.\n\n\n\nNCSolutions — Senior Data Analyst (8 yrs)\n- Led ad-effectiveness measurement using frequent shopper + Nielsen “watch” data.\n- Built ANCOVA pipelines comparing exposed vs. control cohorts; translated results into client recommendations.\nGraduate Projects — UIC MSCA\n- PA 434: text & regression analysis in R; visual analytics and reporting.\n- Civic tech prototypes with wireframes and Shiny demos.\n\n\n\nM.S. Civic Analytics, University of Illinois Chicago (in progress)\nB.s., University of Michigan - Mathematics of Finance and Risk Management"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume — Kylie Vento",
+    "section": "",
+    "text": "Data & Insights Strategist with 8+ years in analytics (NCSolutions). Civic analytics grad student focused on equity-centered, reproducible data products."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume — Kylie Vento",
+    "section": "",
+    "text": "R (tidyverse, ggplot2), SQL, Git/GitHub, Quarto, data viz, experimental design, ANCOVA, stakeholder storytelling."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume — Kylie Vento",
+    "section": "",
+    "text": "NCSolutions — Senior Data Analyst (8 yrs)\n- Led ad-effectiveness measurement using frequent shopper + Nielsen “watch” data.\n- Built ANCOVA pipelines comparing exposed vs. control cohorts; translated results into client recommendations.\nGraduate Projects — UIC MSCA\n- PA 434: text & regression analysis in R; visual analytics and reporting.\n- Civic tech prototypes with wireframes and Shiny demos."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume — Kylie Vento",
+    "section": "",
+    "text": "M.S. Civic Analytics, University of Illinois Chicago (in progress)\nB.s., University of Michigan - Mathematics of Finance and Risk Management"
+  },
+  {
+    "objectID": "index.html#hi-im-kylie-vento",
+    "href": "index.html#hi-im-kylie-vento",
+    "title": "Welcome",
+    "section": "Hi, I’m Kylie Vento",
+    "text": "Hi, I’m Kylie Vento\nMS in Civic Analytics (UIC). I build civic data products and evidence-based stories for public impact.\n\nGitHub: https://github.com/kvent-stack\nResume (HTML): View my resume\nResume (PDF): Download PDF \nEmail: kvent@uic.edu"
   }
 ]
